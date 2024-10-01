@@ -13,14 +13,15 @@
 ## Inicio 
 
 ```
+npm init -y
+npm install express @types/express typescript ts-node @types/node
+```
+
+```
 npm install joi --save
 npm install http-status-codes --save
 ```
 
-```
-npm init -y
-npm install express @types/express typescript ts-node @types/node
-```
 
 ## Confirguración de Typescript
 
